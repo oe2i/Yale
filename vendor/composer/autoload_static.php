@@ -16,7 +16,7 @@ class ComposerStaticInit71d56b65b6d8425228eed37812a2ec5c
     public static $prefixDirsPsr4 = array (
         'yale\\' => 
         array (
-            0 => '/',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
