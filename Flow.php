@@ -2,7 +2,7 @@
 
 namespace Yale;
 
-class Yale
+class Flow
 {
 
 	public function name($name = null)
