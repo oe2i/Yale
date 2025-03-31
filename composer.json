@@ -3,10 +3,10 @@
 	"description": "A simple PHP class for yale",
 	"type": "library",
 	"license": "Apache-2.0",
-	"version": "0.0.3",
+	"version": "0.0.1",
 	"autoload": {
 		"psr-4": {
-			"yale\\": "Yale/"
+			"yale\\": "/"
 		}
 	},
 	"require": {
