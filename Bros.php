@@ -1,8 +1,8 @@
 <?php
 
-namespace Yale;
+namespace Yale\Flow;
 
-class Flow
+class Bros
 {
 
 	public function name($name = null)

@@ -1,9 +1,9 @@
 {
 	"name": "yale/flow",
-	"description": "A simple PHP class to generate full names",
+	"description": "A flow php class",
 	"type": "library",
 	"license": "Apache-2.0",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"autoload": {
 		"psr-4": {
 			"Yale\\": "/"
