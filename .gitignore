@@ -1,1 +1,20 @@
+# Composer dependencies
 /vendor/
+composer.lock
+
+# IDE and editor files
+*.idea/
+*.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Tests and development files (if not needed in production)
+tests/
+phpunit.xml
+.env
+
+# Logs and cache
+logs/
+cache/

@@ -1,12 +1,12 @@
 {
-	"name": "yale/yale",
-	"description": "A simple PHP class for yale",
+	"name": "yale/flow",
+	"description": "A simple PHP class to generate full names",
 	"type": "library",
 	"license": "Apache-2.0",
 	"version": "0.0.1",
 	"autoload": {
 		"psr-4": {
-			"yale\\": "src/"
+			"Yale\\": "src/"
 		}
 	},
 	"require": {
@@ -17,5 +17,17 @@
 			"name": "AO",
 			"email": "anthony@osawere.com"
 		}
-	]
+	],
+	"archive": {
+		"exclude": [
+			"tests/",
+			"docs/",
+			"phpunit.xml",
+			".gitignore",
+			".github/",
+			".idea/",
+			".vscode/",
+			"composer.lock"
+		]
+	}
 }
