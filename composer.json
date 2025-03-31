@@ -1,0 +1,13 @@
+{
+	"name": "yale/yale",
+	"description": "A simple PHP class for yale",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"yale\\yale\\": "Yale/"
+		}
+	},
+	"require": {
+		"php": ">=8.0"
+	}
+}
