@@ -7,6 +7,6 @@ class Yale
 
 	public function name($name = null)
 	{
-		return 'My name is: ' . $name;
+		return 'Name: ' . $name;
 	}
 }

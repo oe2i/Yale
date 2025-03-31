@@ -2,6 +2,8 @@
 	"name": "yale/yale",
 	"description": "A simple PHP class for yale",
 	"type": "library",
+	"license": "Apache-2.0",
+	"version": "0.0.3",
 	"autoload": {
 		"psr-4": {
 			"yale\\yale\\": "Yale/"
@@ -9,5 +11,11 @@
 	},
 	"require": {
 		"php": ">=8.0"
-	}
+	},
+	"authors": [
+		{
+			"name": "AO",
+			"email": "anthony@osawere.com"
+		}
+	]
 }
